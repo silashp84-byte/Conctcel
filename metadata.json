@@ -1,0 +1,5 @@
+{
+  "name": "DroidConnect Web",
+  "description": "A real-time web application that connects devices through the browser, featuring a mobile-responsive Android-inspired interface.",
+  "requestFramePermissions": []
+}
